@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [3838-weighted-word-mapping](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Simulation
 |  |
