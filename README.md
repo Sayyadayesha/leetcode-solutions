@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3838-weighted-word-mapping](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## String
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Math
 |  |
