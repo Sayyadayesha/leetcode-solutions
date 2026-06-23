@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Memoization
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [3699-number-of-zigzag-arrays-i](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Sorting
 |  |
 | ------- |
