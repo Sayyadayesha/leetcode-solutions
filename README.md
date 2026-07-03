@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1840-maximum-building-height](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3838-weighted-word-mapping](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [3620-network-recovery-pathways](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Memoization
 |  |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -100,8 +104,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
