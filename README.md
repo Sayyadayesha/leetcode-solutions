@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1301-number-of-paths-with-max-score](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1732-find-the-highest-altitude](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1840-maximum-building-height) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [1301-number-of-paths-with-max-score](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3620-network-recovery-pathways](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 ## Memoization
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1301-number-of-paths-with-max-score](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
