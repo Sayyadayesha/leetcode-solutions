@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0001-two-sum) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0724-find-pivot-index](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1260-shift-2d-grid](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
