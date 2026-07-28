@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0344-reverse-string) |
 | [1189-maximum-number-of-balloons](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 | [3838-weighted-word-mapping](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3838-weighted-word-mapping) |
 ## Simulation
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Greedy
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Binary Search
 |  |
 | ------- |
