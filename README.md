@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0486-predict-the-winner](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1840-maximum-building-height](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1840-maximum-building-height) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0486-predict-the-winner](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -248,4 +251,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Recursion
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0486-predict-the-winner) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
