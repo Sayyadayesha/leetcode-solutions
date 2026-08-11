@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0189-rotate-array) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -332,4 +335,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
