@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1833-maximum-ice-cream-bars](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1833-maximum-ice-cream-bars) |
 | [1840-maximum-building-height](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [1929-concatenation-of-array](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2029-stone-game-ix](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1510-stone-game-iv) |
 | [1840-maximum-building-height](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1840-maximum-building-height) |
+| [1872-stone-game-viii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1510-stone-game-iv](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3620-network-recovery-pathways) |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [1140-stone-game-ii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1732-find-the-highest-altitude](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
@@ -352,12 +357,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sayyadayesha/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
